@@ -2,3 +2,4 @@ Mars is red.
 Mars is the fourth planet in the solar system.
 It's really cold.
 Venus would be a better destination.
+I'm adding this on github.
